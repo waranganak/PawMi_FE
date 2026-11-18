@@ -5,7 +5,7 @@ It allows users to manage their own pet details, read and write articles about p
 
 ### 🌍 Deployed URLs
 
-**Frontend:**
+**Frontend: https://github.com/waranganak/PawMi_FE.git**
 
 **Backend:**
 
