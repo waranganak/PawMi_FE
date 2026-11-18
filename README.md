@@ -1,13 +1,13 @@
 # 🐾 PawMart
 
-Happy Paws is a pet management and knowledge-sharing web application designed for pet owners.  
+Pawmi is a pet management and knowledge-sharing web application designed for pet owners.  
 It allows users to manage their own pet details, read and write articles about pets and pet diseases, interact with an AI-powered chatbot for pet-related queries, and receive email reminders for important pet-related activities.
 
 ### 🌍 Deployed URLs
 
 **Frontend: https://github.com/waranganak/PawMi_FE.git**
 
-**Backend:**
+**Backend: https://github.com/waranganak/Pawmi_BE.git**
 
 ---
 
